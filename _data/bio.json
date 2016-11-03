@@ -96,8 +96,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Civil Engineering Spring, 2012",
       "studyType": "B.S.",
-      "startDate": "2018-09-01",
-      "endDate": "Present",
+      "startDate": "2008-09-01",
+      "endDate": "2012-05-01",
       "gpa": "3.09",
       "courses": [
       ]
@@ -105,27 +105,40 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "UHM Men’s Volleyball",
+      "position": "Team Manager",
+      "website": "http://www.hawaiiathletics.com/index.aspx?path=mvball",
+      "startDate": "2013-09-01",
+      "endDate": "2016-05-01",
+      "summary": "Student Assitant and Lead Scouter",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Formulated scouting materials and statistics of opposing team weekly,",
+        "managed clerical office work and record keeping.",
+        "Took part in leading the team to the NCAA tournament for the first time in over 10 years.",
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "World Away Games",
+      "position": "Designer/Developer/Publisher",
+      "website": "https://www.facebook.com/aworldawaygames/",
+      "startDate": "2013-05-01",
+      "endDate": "Present",
+      "summary": "Designed, Developed and Published \"Swpie Breaker\" ",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Designed \"Swipe Breaker\" from the ground up.",
+        "Developed solutions pertianing to unique user input.",
+        "Published the game to both iOS and Android platforms."
+      ]
+    },
+    {
+      "company": "Nan Inc.",
+      "position": "Project Engineer",
+      "website": "http://www.nanhawaii.com/",
+      "startDate": "2012-05-01",
+      "endDate": "2013-05-01",
+      "summary": "Worked in support of construction team for up to 8 projects at a single time",
+      "highlights": [
+        "Oversaw procurement of materials, buyout, budgeting, scheduling, coordinated billing, and drafted subcontracts.",
       ]
     }
   ],
