@@ -171,22 +171,74 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Disrupt Army Hackathon",
+      "date": "2016",
+      "award": "3rd Place",
+      "summary": "Competed to create best calander design to allow Army Generals to make decisions on where they were spending time."
     },
     {
-      "title": "First place",
+      "title": "Hawaii Annual Code Challenge",
+      "date": "2016",
+      "award": "Finalist",
+      "summary": "Develoepd web application to highlight voting choices in the State of Hawai'i."
+    },
+    {
+      "title": "UROP Showcase",
+      "date": "2016",
+      "award": "1st Place",
+      "summary": "Engineering & Computer Sciences Poster Presentation for Step-By-Step Mathematics teaching application"
+    },
+     {
+      "title": "UH Manoa Dean's List",
+      "date": "2016, 2011",
+      "award": "",
+      "summary": "Earned a total 3.5 GPA for a semster"
+    },
+     {
+      "title": "Gov. Ige Athletics Honor",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "award": "",
+      "summary": "Award in recognition for excellent atheltic performance at UH Manoa"
+    },
+     {
+      "title": "Mountain Pacific Sports Federation",
+      "date": "2012",
+      "award": "All-Academic",
+      "summary": "In recognition of excellent classroom performance by a student-athlete"
+    },
+     {
+      "title": "FE Exam",
+      "date": "2012",
+      "award": "",
+      "summary": "Passed fundamentals of engineering test"
+    },
+     {
+      "title": "Eagle Scout",
+      "date": "2007",
+      "award": "",
+      "summary": "Highest rank within the Boy Scouts of America, built a sand volleyball court as the final requirment"
+    },
+    
+    
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "title": "UHMVB Head Coach",
+      "name": "Charlie Wade",
+      "email" : "cwade@hawaii.edu",
+      "phone" : "(808) 956-9931",
+    },
+    {
+      "title": "Nan Inc. Vice President",
+      "name": "Frank Okimoto",
+      "email" : "fokimoto@nanhawaii.com",
+      "phone" : "(808) 230-9568",
+    },
+    {
+      "title": "OIMT Project Manager",
+      "name": "Debra Gagne",
+      "email" : "Debra.A.Gagne@hawaii.gov",
+      "phone" : "",
     }
   ]
 }
