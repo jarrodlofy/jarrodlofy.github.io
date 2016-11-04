@@ -31,8 +31,6 @@
     {
       "name": "HCI Design",
       "keywords": [
-        "Human Computer Interaction",
-        "Interaction Design"
       ]
     },
     {
@@ -45,7 +43,6 @@
     {
       "name": "Artificial Intelligence",
       "keywords": [
-        "AI",
         "Deep Learning"
       ]
     }
