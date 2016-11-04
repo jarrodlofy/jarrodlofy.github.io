@@ -112,8 +112,8 @@
       "endDate": "2016-05-01",
       "summary": "Student Assitant and Lead Scouter",
       "highlights": [
-        "Formulated scouting materials and statistics of opposing team weekly,",
-        "managed clerical office work and record keeping.",
+        "Formulated scouting materials and statistics of opposing team weekly.",
+        "Managed clerical office work and record keeping.",
         "Took part in leading the team to the NCAA tournament for the first time in over 10 years.",
       ]
     },
@@ -144,28 +144,28 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "UHM Undergraduate Research Opportunities Program",
+      "website": "http://manoa.hawaii.edu/undergrad/urop/",
+      "position": "Project Manager",
+      "startDate": "2015-09-01",
+      "endDate": "2016-05-01",
+      "summary": "Developed a new teaching application \"Step-By-Step Mathematics\" for mobile devices",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Designed teaching application based on new design process intended to help students understand the process of problem solving",
+        "Managed development team to deliver application on time and at budget.",
+        "Recieved first place award at poster presentation for engineering and computer sciences."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Office of Enterprise Technology Services Transformation Internship Program",
+      "website": "http://tip.hawaii.gov/",
+      "position": "Intern",
+      "startDate": "2015-05-01",
+      "endDate": "2015-09-01",
+      "summary": "Summer Intern for OIMT",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Developed training materials for project management process training.",
+        "Presented developed materials to Gov. Ige at the end of the program.",
       ]
     }
   ],
