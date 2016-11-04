@@ -29,20 +29,24 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "HCI Design",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Human Computer Interaction",
+        "Interaction Design"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Mobile Game Development",
       "keywords": [
+         "Corona SDK",
+         "Unity"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
+        "AI",
+        "Deep Learning"
       ]
     }
   ],
@@ -70,6 +74,7 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Unity",
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
@@ -192,7 +197,7 @@
       "title": "UH Manoa Dean's List",
       "date": "2016, 2011",
       "award": "",
-      "summary": "Earned a total 3.5 GPA for a semster"
+      "summary": "Earned a 3.5 GPA or above for a semester"
     },
      {
       "title": "Gov. Ige Athletics Honor",
