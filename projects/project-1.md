@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/swipe_gif.gif
+title: Swipe Breaker
 permalink: projects/micromouse
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Corona SDK
+  - Lua
+  - iOS/Android
+summary: Swipe Breaker was desinged, developed, and published as a personal project. It is the highlight of my personal enthusiasm for programming and developing, and was a part of my first project as a programmer.
 ---
 <div class="ui small rounded images">
   <img class="ui image" src="http://i.imgur.com/uZ4iJcV.png">
