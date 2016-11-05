@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/swipe_gif.gif
+image: images/swipe_gifsq.gif
 title: Swipe Breaker
 permalink: projects/micromouse
 date: 2015
