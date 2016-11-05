@@ -24,6 +24,6 @@ The entire time since I quit my construction job I had worked on "Swipe Breaker"
 
 iOS : <a href="https://itunes.apple.com/us/app/swipe-breaker/id985496651?mt=8"><i class="large github icon"></i>App Store</a>
 
-<a href="https://play.google.com/store/apps/details?id=com.worldawaygames.Swipe_Breaker&hl=en"><i class="large github icon">Android : </i>Google Play</a>
+Android : <a href="https://play.google.com/store/apps/details?id=com.worldawaygames.Swipe_Breaker&hl=en"><i class="large github icon"> </i>Google Play</a>
 
 
