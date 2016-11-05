@@ -14,8 +14,7 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
 <iframe class="imgur-embed" width="100%" height="720" frameborder="0" src="http://i.imgur.com/YrgRtqQ.gifv#embed"></iframe>
 
 <div class="ui small rounded images">
-  <iframe class="imgur-embed" width="100%" height="720" frameborder="0" src="http://i.imgur.com/YrgRtqQ.gifv#embed"></iframe>
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="http://i.imgur.com/uZ4iJcV.png">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
