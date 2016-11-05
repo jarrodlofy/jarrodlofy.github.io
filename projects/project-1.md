@@ -12,16 +12,16 @@ labels:
 summary: Swipe Breaker was desinged, developed, and published as a personal project. It is the highlight of my personal enthusiasm for programming and developing, and was a part of my first project as a programmer.
 ---
 <div class="ui small rounded images">
+  <img class="ui image" src="../images/swipe_gif.gif">
   <img class="ui image" src="http://i.imgur.com/uZ4iJcV.png">
   <img class="ui image" src="http://i.imgur.com/JA3ebty.png">
-  <img class="ui image" src="../images/swipe_gif.gif">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+While working as a project engineer at a locally owned construction company here in Hawaii, I discovered Corona SDK. Before Corona SDK I had dabbled in programming before, such as a scripting language for video games as a teen and a C programming class for engineering school. This however, was this first time that I dove head in. Once I did I got hooked, and after returning to school to earn a graduate engineering degree I found that I absolutly loved working with Corona SDK. So much so that after a semester doing structural engineering I decided that I wanted to programming as a carreer choice. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The entire time since I quit my construction job I had worked on "Swipe Breaker", some days I would make immesne amount of progress sometimes almost none. However finally after two years of getting the feel of Lua and Corona SDK's capabilities I felt I had a product that was good enough for me to publish to the developer store. So I did, and when I did I didn't at all get the overwhelming response I had hoped for. Yet, what I did get back was just as valuable, by actually putting the game out into the world I got valuable feedback that I didn't get from my friends. Strangers on the internet told me they liked the game a whole lot, but it wasn't worth love. The flaws I missed became glaringly obvious, and this has since made my projects I've worked on better. "Swipe Breaker" was my first programming experience, but it will by no means be my last, and I learned a great deal about design, marketing, programming, and publishing from it. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
 
 
 
