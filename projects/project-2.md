@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/sqs_sq.png
 title: Step-By-Step Mathematics
 permalink: projects/vacay
 date: 2015-2016
