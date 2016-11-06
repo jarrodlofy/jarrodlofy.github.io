@@ -22,7 +22,5 @@ While working as a project engineer at a locally owned construction company here
 The entire time since I quit my construction job I had worked on "Swipe Breaker", some days I would make immesne amount of progress sometimes almost none. However finally after two years of getting the feel of Lua and Corona SDK's capabilities I felt I had a product that was good enough for me to publish to the developer store. So I did, and when I did I didn't at all get the overwhelming response I had hoped for. Yet, what I did get back was just as valuable, by actually putting the game out into the world I got valuable feedback that I didn't get from my friends. Strangers on the internet told me they liked the game a whole lot, but it wasn't worth love. The flaws I missed became glaringly obvious, and this has since made my projects I've worked on better. "Swipe Breaker" was my first programming experience, but it will by no means be my last, and I learned a great deal about design, marketing, programming, and publishing from it. 
 
 
-iOS : <a href="https://itunes.apple.com/us/app/swipe-breaker/id985496651?mt=8"><i class="large github icon"></i>App Store</a>
-Android : <a href="https://play.google.com/store/apps/details?id=com.worldawaygames.Swipe_Breaker&hl=en"><i class="large github icon"> </i>Google Play</a>
 
 
