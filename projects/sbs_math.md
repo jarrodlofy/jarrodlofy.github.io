@@ -23,4 +23,4 @@ Step-By-Step Mathematics was a Undergruadate Research and Development project th
 
 Step-By-Step Mathematics aimed to make up for those shortcomings, and through the Spring Semester my team and I developed the application.By the end of the semester we had a project that we were proud of, the application covered 11 different lessons covering Common Core Mathematics requirments for both 1st and 2nd graders. Each lesson worked to connect itself to previous lessons in order to show the connections between mathematics concepts. At the end of the semester we presented my groups work at the Undergraduate Research Opportunities Program Showcase for Spring 2016 and got first place at the poster presentation. Though I did work on many things during the project, the main thing I learned over the course of the project was how to better manage and guide a team to create an application on time and on budget.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/lbclofy/ics491_sbsmath"><i class="large github icon"></i>Step-By-Step Mathematics</a>
