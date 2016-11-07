@@ -12,7 +12,12 @@ labels:
 summary: Step-By-Step Mathematics was a mathematics teaching mobile application for 1st and 2nd graders that focused on showing the procces of solving problems and showing how they connect to previous matematics concepts.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/sbs_count.gif">
+  <img class="ui image" src="../images/sbs_add.gif">
+  <img class="ui image" src="../images/sbs_alg.gif">
+  <img class="ui image" src="../images/sbs_clock.gif">
+</div>
 
 Step-By-Step Mathematics was a Undergruadate Research and Development progject that I proposed in Fall of 2015 and was approved for Spring 2016. When our application was concieved the applications focus was to focus on showing and visualizing the process of solving mathematics problems. I felt that understanding the process and making connections between the real world and the process of mathematics is crucial to comprehension. All too often, in teaching, a question is asked and the student is told if they are wrong or not. Think of all the X’s on every test you've ever taken, generally teachers just don't have the time or resources to explain the mistake.
 
