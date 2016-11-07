@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sqs_sq.png
 title: Swipe Breaker
-permalink: projects/vacay
+permalink: projects/swipebreaker
 date: 2013-2015
 labels:
   - Corona SDK
