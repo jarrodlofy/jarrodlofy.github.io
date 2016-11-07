@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sqs_sq.png
+image: images/swipe_gifsq.gif
 title: Swipe Breaker
 permalink: projects/swipebreaker
 date: 2013-2015
