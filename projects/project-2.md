@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sbs_sq.png
+image: images/sbs_sq.gif
 title: Step-By-Step Mathematics
 permalink: projects/sbsmath
 date: 2015-2016
@@ -9,7 +9,7 @@ labels:
   - Corona SDK
   - Lua
   - iOS/Android
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Step-By-Step Mathematics was a mathematics teaching mobile application for 1st and 2nd graders that focused on showing the procces of solving problems and showing how they connect to previous matematics concepts.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
