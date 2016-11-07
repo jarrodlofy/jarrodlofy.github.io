@@ -11,6 +11,11 @@ labels:
   - iOS/Android
 summary: Swipe Breaker was desinged, developed, and published as a personal project. It is the highlight of my personal enthusiasm for programming and developing, and was a part of my first project as a programmer.
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/swipe_gif.gif">
+  <img class="ui image" src="http://i.imgur.com/uZ4iJcV.png">
+  <img class="ui image" src="http://i.imgur.com/JA3ebty.png">
+</div>
 
 While working as a project engineer at a locally owned construction company here in Hawaii, I discovered Corona SDK. Before Corona SDK I had dabbled in programming before, such as a scripting language for video games as a teen and a C programming class for engineering school. This however, was this first time that I dove head in. Once I did I got hooked, and after returning to school to earn a graduate engineering degree I found that I absolutly loved working with Corona SDK. So much so that after a semester doing structural engineering I decided that I wanted to programming as a carreer choice. 
 
