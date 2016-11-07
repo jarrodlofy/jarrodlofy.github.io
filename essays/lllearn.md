@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Life Long Learning
-date: 2012
+date: 2012-05-01
 labels:
   - Engineering
   - Life Long Learning
