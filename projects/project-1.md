@@ -2,20 +2,16 @@
 layout: project
 type: project
 image: images/sqs_sq.png
-title: Step-By-Step Mathematics
+title: Swipe Breaker
 permalink: projects/vacay
-date: 2015-2016
+date: 2013-2015
 labels:
   - Corona SDK
   - Lua
   - iOS/Android
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Swipe Breaker was desinged, developed, and published as a personal project. It is the highlight of my personal enthusiasm for programming and developing, and was a part of my first project as a programmer.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+While working as a project engineer at a locally owned construction company here in Hawaii, I discovered Corona SDK. Before Corona SDK I had dabbled in programming before, such as a scripting language for video games as a teen and a C programming class for engineering school. This however, was this first time that I dove head in. Once I did I got hooked, and after returning to school to earn a graduate engineering degree I found that I absolutly loved working with Corona SDK. So much so that after a semester doing structural engineering I decided that I wanted to programming as a carreer choice. 
 
-Step-By-Step Mathematics was a Undergruadate Research and Development progject that I proposed in Fall of 2015 and was approved for Spring 2016. When our application was concieved the applications focus was to focus on showing and visualizing the process of solving mathematics problems. I felt that understanding the process and making connections between the real world and the process of mathematics is crucial to comprehension. All too often, in teaching, a question is asked and the student is told if they are wrong or not. Think of all the X’s on every test you've ever taken, generally teachers just don't have the time or resources to explain the mistake.
-
-Step-By-Step Mathematics aimed to make up for those shortcomings, and through the Spring Semester my team and I developed the application.By the end of the semester we had a project that we were proud of, the application covered 11 different lessons covering Common Core Mathematics requirments for both 1st and 2nd graders. Each lesson worked to connect itself to previous lessons in order to show the connections between mathematics concepts. At the end of the semester we presented my groups work at the Undergraduate Research Opportunities Program Showcase for Spring 2016 and got first place at the poster presentation. Though I did work on many things during the project, the main thing I learned over the course of the project was how to better manage and guide a team to create an application on time and on budget.
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The entire time since I quit my construction job I had worked on "Swipe Breaker", some days I would make immesne amount of progress sometimes almost none. However finally after two years of getting the feel of Lua and Corona SDK's capabilities I felt I had a product that was good enough for me to publish to the developer store. So I did, and when I did I didn't at all get the overwhelming response I had hoped for. Yet, what I did get back was just as valuable, by actually putting the game out into the world I got valuable feedback that I didn't get from my friends. Strangers on the internet told me they liked the game a whole lot, but it wasn't worth love. The flaws I missed became glaringly obvious, and this has since made my projects I've worked on better. "Swipe Breaker" was my first programming experience, but it will by no means be my last, and I learned a great deal about design, marketing, programming, and publishing from it. 
