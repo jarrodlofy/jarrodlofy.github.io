@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/sqs_sq.png
+image: images/sbs_sq.png
 title: Step-By-Step Mathematics
-permalink: projects/vacay
+permalink: projects/sbsmath
 date: 2015-2016
 labels:
   - Corona SDK
